@@ -459,3 +459,8 @@ static void HapusMahasiswa()
 
 Method ini digunakan untuk menghapus data mahasiswa yang tersimpan berdasarkan NIM.
 
+
+
+https://github.com/user-attachments/assets/94b78f60-1158-4d30-9127-f605eece6dde
+
+
