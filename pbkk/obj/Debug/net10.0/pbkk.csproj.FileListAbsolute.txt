@@ -1,0 +1,14 @@
+D:\pbkk\bin\Debug\net10.0\pbkk.exe
+D:\pbkk\bin\Debug\net10.0\pbkk.deps.json
+D:\pbkk\bin\Debug\net10.0\pbkk.runtimeconfig.json
+D:\pbkk\bin\Debug\net10.0\pbkk.dll
+D:\pbkk\bin\Debug\net10.0\pbkk.pdb
+D:\pbkk\obj\Debug\net10.0\pbkk.GeneratedMSBuildEditorConfig.editorconfig
+D:\pbkk\obj\Debug\net10.0\pbkk.AssemblyInfoInputs.cache
+D:\pbkk\obj\Debug\net10.0\pbkk.AssemblyInfo.cs
+D:\pbkk\obj\Debug\net10.0\pbkk.csproj.CoreCompileInputs.cache
+D:\pbkk\obj\Debug\net10.0\pbkk.dll
+D:\pbkk\obj\Debug\net10.0\refint\pbkk.dll
+D:\pbkk\obj\Debug\net10.0\pbkk.pdb
+D:\pbkk\obj\Debug\net10.0\pbkk.genruntimeconfig.cache
+D:\pbkk\obj\Debug\net10.0\ref\pbkk.dll
